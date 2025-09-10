@@ -1,12 +1,15 @@
 ### Welcome to my repository
 
-Below you'll find the numerous projects I have contributed to or are actively contributing to. Please note that these are *not* published analyses and are meant to provide insights into my workflow for my collaborators and colleagues. If you are interested in code pertaining to published results, please consult the [Gulf of Maine Research Institute GitHub](https://github.com/gulfofmaine).
+Below you'll find the numerous projects I have contributed to or are actively contributing to. Please note that these are *not* published analyses and are meant to provide insights into my workflow for my collaborators and colleagues. **If you are interested in code pertaining to published results, please consult the [Gulf of Maine Research Institute GitHub](https://github.com/gulfofmaine).**
 
 Cheers!
 
 ------------------------------------------------------------------------
 
 #### Projects
+-   [Species profiles](https:://carlylovas.github.io/species_profiles/)
+
+-   [Northeast Climate Adaptation](https://carlylovas.github.io/nclim_adaptation/data_exp.html)
 
 -   [Access and Adaptation in Northeast Marine Fisheries](https://carlylovas.github.io/mesg-permits/README.html)
 
