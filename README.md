@@ -7,7 +7,7 @@ Cheers!
 ------------------------------------------------------------------------
 
 #### Projects
--   [Species profiles](https:://carlylovas.github.io/species_profiles/)
+-   [Species profiles](https://5qflbi-carly-lovas.shinyapps.io/nmfs_species_dist/)
 
 -   [Northeast Climate Adaptation](https://carlylovas.github.io/nclim_adaptation/data_exp.html)
 
