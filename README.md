@@ -5,6 +5,9 @@ Below you'll find the numerous projects I have contributed to or are actively co
 Cheers!
 
 ------------------------------------------------------------------------
+#### Packages
+-   [species.shifts](https://github.com/carlylovas/species.shifts)
+-   [gmRi](https://github.com/gulfofmaine/gmRi)
 
 #### Projects
 -   [Species profiles](https://5qflbi-carly-lovas.shinyapps.io/nmfs_species_dist/)
