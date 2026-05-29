@@ -6,7 +6,7 @@ Cheers!
 
 ------------------------------------------------------------------------
 #### Packages
--   [species.shifts](https://github.com/carlylovas/species.shifts)
+-   [species.shifts](https://carlylovas.github.io/species.shifts/)
 -   [gmRi](https://github.com/gulfofmaine/gmRi)
 
 #### Projects
