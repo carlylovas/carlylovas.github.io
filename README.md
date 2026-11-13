@@ -5,19 +5,22 @@ Below you'll find the numerous projects I have contributed to or are actively co
 Cheers!
 
 ------------------------------------------------------------------------
+
 #### Packages
--   [species.shifts](https://mafmc.github.io/species.shifts/)
--   [gmRi](https://github.com/gulfofmaine/gmRi)
+
+- [species.shifts](https://mafmc.github.io/species.shifts/)
+- [gmRi](https://github.com/gulfofmaine/gmRi)
 
 #### Projects
--   [Species profiles](https://5qflbi-carly-lovas.shinyapps.io/nmfs_species_dist/)
 
--   [Northeast Climate Adaptation](https://carlylovas.github.io/nclim_adaptation/data_exp.html)
+- [Species profiles](https://5qflbi-carly-lovas.shinyapps.io/nmfs_species_dist/)
 
--   [Access and Adaptation in Northeast Marine Fisheries](https://carlylovas.github.io/mesg-permits/README.html)
+- [Northeast Climate Adaptation](https://carlylovas.github.io/nclim_adaptation/data_exp.html)
 
--   [Nutritional Ecology of Climate Change](https://carlylovas.github.io/NECC-Species-Distribution-Summaries/README.html)
+- [Access and Adaptation in Northeast Marine Fisheries](https://carlylovas.github.io/mesg-permits/README.html)
 
--   [Climate Adaptation in Coastal Fishing Communities](https://github.com/carlylovas/coastal-ocean-climate-adaptation)
+- [Nutritional Ecology of Climate Change](https://carlylovas.github.io/NECC-Species-Distribution-Summaries/README.html)
 
--   [Multispecies Response to Climate Change](https://github.com/carlylovas/multispecies-climate-change-signals-ices)
+- [Climate Adaptation in Coastal Fishing Communities](https://github.com/carlylovas/coastal-ocean-climate-adaptation)
+
+- [Multispecies Response to Climate Change](https://github.com/carlylovas/multispecies-climate-change-signals-ices)
