@@ -8,6 +8,7 @@ website:
       - href: README.md
         text: Home
       - about.qmd
+      - index.qmd
 
 format:
   html:
