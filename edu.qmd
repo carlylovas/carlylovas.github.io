@@ -1,0 +1,70 @@
+---
+title: "Experience & Expertise"
+---
+
+## Previous employment
+
+### Gulf of Maine Research Institute  
+**Quantitative Research Associate**  
+*Portland, ME*  
+2022-2026
+
+Supported a number of projects across the organization and within Dr. Kathy Mills' [Integrated Systems Ecology](https://www.gmri.org/commitments/science/integrated-systems-ecology/) group. Analyzed marine species distributions and impacts using a variety of federal and state fisheries data sets and a variety of methods, including data visualization, time series analyses and descriptive statistics, generalized linear and mixed effects models, species distribution models, econometrics and social network graph analysis. Created [educational resources](https://teach.gmri.org/resources/a-warming-gulf-of-maine-phytoplankton-and-the-marine-food-web/) for coastal community resilience, provided written and visual content for proposals and publications. Developed community reports for the [Climate Adaptation Resource Hub for Fishing Communities](https://gmri.org/projects/understanding-fisheries-climate-impacts/).
+
+### Waterfront Alliance
+
+**Climate Communications Capstone Project**  
+*New York, NY*  
+2022
+
+Co-led a team of Columbia University graduate students in a collaborative project with the Waterfront Alliance. Designed, developed, and published the [Climate Resilience Literacy Handbook](https://waterfrontalliance.org/wp-content/uploads/2025/08/Waterfront-Alliance-Climate-Resilience-Literacy-Handbook_2025.pdf) on climate resilience strategies in the New York/New Jersey metro region to promote climate literacy and resilient waterfront infrastructure.
+
+### Lamont-Doherty Earth Observatory
+
+**Graduate Research Assistant, Goes Lab**  
+*New York, NY*  
+2021-2022
+
+Worked in EASy to track and visualize environmental parameters and lobster landing data in the Gulf of Maine as part of the Navigating the New Arctic initiative of the NSF. Participated in multiple workshops as part of The Lobster Institute’s United States and Canada Future Fisheries Collaborative. Assisted in the coproduction of scientific knowledge and provision of climate services to the Gulf of Maine lobster industry.
+
+### National Park Service
+
+**American Conservation Experience EPIC Aquatic Ecology Intern**  
+*New River Gorge National Park, Glen Jean, WV*  
+2019
+
+Assisted water quality monitoring projects within the New River Gorge National Park, analyzing the correlation between environmental parameters and the bacteriological composition as indicators of contaminated water. Trained in electroshock fish sampling techniques for long-term ecosystem monitoring. Hired as a research technician for multi-person study out of WVU and New River Gorge National Park involving the effects of *Imidacloprid* for HWA treatment on non-target organisms.
+
+### Grice Marine Laboratory
+
+**Undergraduate Research Assistant**  
+*Charleston, SC*  
+2016-2018
+
+Assisted undergraduate research in functional biology and evolutionary ecology of marine invertebrates. Maintained aquaria, collected gametes, and reared pluteus and veliger larvae under various experimental conditions. Used microscopic photographic techniques to record and analyze larval developmental stages. 
+
+## Education
+
+### Master of Arts, Climate & Society
+
+*Columbia University in the City of New York*  
+2021-2022
+
+### Bachelor of Science, Marine Biology
+
+*College of Charleston*  
+2015-2019
+
+## Knowledge areas and interests
+
+- Quantitative Ecology
+
+- Marine Biology & Ecology
+
+- Climate Adaptation & Resilience
+
+- R Statistical Programming
+
+- Data Analysis & Visualization
+
+- Strategic Science & Climate Communication
