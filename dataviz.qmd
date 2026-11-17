@@ -14,7 +14,7 @@ For the *Understanding Fisheries Climate Impacts* section of the [Climate Adapta
 #| warning: false
 #| message: false
 
-knitr::include_url("https://www.gmri.org/projects/understanding-fisheries-climate-impacts/")
+knitr::include_url("files/Port_Map.html")
 
 ```
 
