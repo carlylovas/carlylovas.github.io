@@ -1,20 +1,48 @@
+url: https://carlylovas.github.io/carlylovas-io/
 project:
   type: website
-
 website:
   title: "Carly S. Lovas"
+  favicon: images/headshot.svg
   navbar:
+    background: "#f6f6f6"
     left:
-      - href: README.md
-        text: Home
-      - about.qmd
-      - index.qmd
-
+    - href: index.qmd
+      text: About
+    - href: research.qmd
+      text: Research
+    - href: edu.qmd
+      text: Experience & Expertise
+    - href: dataviz.qmd
+      text: Data Visualization
+    - href: scicomm.qmd
+      text: Science Communication
+    - href: repos.qmd
+      text: Repositories
+  sidebar: 
+    style: "floating"
+    logo: /images/headshot.svg
+    logo-alt: "Carly"
+    logo-href: /index.html
+    contents:
+      - text: "---" # Optional separator if you have other pages
+      - href: mailto:carly.lovas@gmail.com
+        text: "<i class='bi bi-envelope-at-fill'></i> Email"
+      - href: https://github.com/carlylovas
+        text: "<i class='bi bi-github'></i> GitHub"
+      - href: http://linkedin.com/in/carly-lovas-710255171/
+        text: "<i class='bi bi-linkedin'></i> LinkedIn"
+      - href: https://orcid.org/0009-0002-8121-7684
+        text: "<img src='/images/orcid_bw.svg' class='custom-sidebar-icon' alt='ORCID'> ORCID"
+      - href: /files/Lovas_CV.pdf 
+        text: "<i class='bi bi-cloud-download-fill'></i> Download CV"
 format:
   html:
     theme: cosmo
+      # light: [cosmo, theme.scss]
+      # dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
-editor: visual
+   # mainfont: "ovo"
+editor: source
 

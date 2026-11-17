@@ -1,1 +1,16 @@
 /* css styles */
+
+/* Stack sidebar tools vertically */
+.sidebar-tools-container, .quarto-sidebar-tools {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 8px !important; /* Adds space between the stacked icons */
+}
+
+.sidebar img.custom-sidebar-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em; /* Fine-tunes vertical alignment with text */
+  margin-right: 0.25rem;    /* Adds slight spacing before the label */
+  display: inline-block;
+}

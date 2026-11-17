@@ -1,11 +1,8 @@
 ---
-title: "carlylovas"
+title: "Carly S. Lovas"
+subtitle: "Quantitative marine ecology and climate adaptation"
+# title-block-banner: images/banner.svg
+# title-block-banner-color: "#f6f6f6"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi, and welcome to my portfolio. I am a quantitative marine ecologist, focusing on the impacts of climate-driven ocean warming on fisheries socio-ecological systems. I work primarily with federal fisheries independent and dependent survey data, including (but not limited to) NOAA Northeast Fisheries Science Center Spring-Fall Bottom Trawl Survey, NOAA Fisheries Marine Recreational Information Program, Greater Atlantic Regional Fisheries Office Commercial Harvest Permits and Fisheries Observer Data. I have supported multiple projects funded by NOAA and Maine Sea Grant, the National Science Foundation BioOce Program, and Mid-Atlantic Fisheries Management Council via the Inflation Reduction Act. All of these projects sought to quantify shifts in distribution of commercially viable marine species, and the understand the potential implications on marine fisheries in the Northeast United States. As a researcher, I am motivated to quantify climate-driven shifts in marine species distribution, and develop frameworks to support more dynamic, adaptive, and climate-resilient commercial fisheries. I am passionate about leveraging lived experience and knowledge with scientific information to building well-informed, engaged, and resilient communities. Please take this opportunity to peruse my work, and please don’t hesitate to reach out for any inquiries or opportunities.

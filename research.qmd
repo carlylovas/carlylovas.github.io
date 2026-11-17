@@ -1,0 +1,39 @@
+---
+title: "Climate & Fisheries Research"
+---
+
+I am primarily interested in the localization and contextualization of large scale climate and ecosystem change. Given the complexities of fisheries and how they are influenced by not only environmental change but regulatory, market, and behavioral trends as well, working in fisheries has been an excellent ecosystem for applying climate decision frameworks. In quantifying changes in commercial fishing, I hope to aid people and institutions as we understand, navigate, and manage the impact climate change has on our daily lives.
+
+## Publications
+
+Mills KE, Kemberling A, Kerr LA, Lucey SM, McBride RS, Nye JA, Pershing AJ, Barajas M, **Lovas CS**. (2024) “Multispecies population-scale emergence of climate change signals in an ocean warming hotspot.” *ICES Journal of Marine Science* , 2024;, fsad208, [https://doi.org/10.1093/icesjms/fsad208.]()
+
+**Lovas CS** (2026). species.shifts: Northeast US Marine Species Distribution Change. R package version 0.1.0, [https://github.com/carlylovas/species.shifts.]()
+
+## Forthcoming
+
+Allyn AJ, DiFiore B, **Lovas CS**, Mills KE, Hermann NT, Furey NB. Intra-annual variation in species distributions within a rapidly warming marine ecosystem. *(in review)*
+
+Eurich, J, et al (2026). Applied approaches and collaborative action advance climate resilience in marine fishery systems *(in review)*.
+
+**Lovas CS**, Tokunaga K, Burnham-Knight T, Stoll J, Mills KE. Diversification and Cross-fishery Spillovers in Coastal Fisheries: Evidence from Climate Change-induced Northern Shrimp Fishery Collapse. *(in prep)*.
+
+Hermann NT, Allyn AJ, **Lovas CS**, Wuenschel MJ, Smith BE, Mills KE, Furey NB. A Retrospective Analyses of Fish Diets in the Northeast US Continental Shelf. *(in prep)*.
+
+## Presentations & Workshops
+
+*Co-Designing Learning Across Contexts*. NEOSEC Ocean Literacy Summit. October, 2025. \[Presentation\]. FishSCORE 2030: Approaches to Climate Resilient Marine Fisheries. Gulf of Maine Research Institute. May, 2025. \[Workshop\].
+
+*Ensuring and enabling access to emergent fisheries in the Northeast U.S.* International Council for the Exploration of the Sea: Annual Science Conference. September 2025. \[Presentation\].
+
+*Diverged in a warming sea: Intra-annual variation in marine species distributions in a rapidly warming marine ecosystem.* International Council for the Exploration of the Sea: Annual Science Conference. September 2025. \[Poster\].
+
+*Nutritional Ecology of Climate Change: Understanding how climate change impacts species distributions, interactions, and trophic dynamics*. Curriculum Workshop: A Warming Gulf of Maine - Investigating Impacts on Predators and Prey. April 2025. \[Workshop\].
+
+*Climate, Ocean, Society: Climate Careers in the Marine Sector*. Columbia University, Down to Earth Alumni Talks. December 2024. \[Presentation\].
+
+*Assessing accessibility and adaptive capacity in Maine’s coastal fisheries.* International Council for the Exploration of the Sea: Annual Science Conference. September 2024. \[Poster\].
+
+*Climate Adaptation Resource Hub for Fishing Communities*. Gulf of Maine Research Institute. June, July 2024. \[[Presentation](https://youtu.be/pOfeQjRN9Fg?si=2xvVt1C84wD2cxCt)\].
+
+*Women in Climate and Fisheries*. University of Bergen: SDG Bergen 2023 Day Zero conference. February 2023. \[Workshop\].

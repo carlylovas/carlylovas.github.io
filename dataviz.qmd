@@ -1,0 +1,35 @@
+---
+title: "Data Visualization"
+---
+
+Working primarily in R and RStudio, I have worked extensively with the `tidyverse`, `ggplot2`, `Shiny`, `pkgdown`, and various bespoke R packages. My GitHub is the best resource for assessing my competencies in data visualization and analyses, but I've included a few projects during my time at GMRI that best represent my work.
+
+## Adaptation Hub
+
+For the *Understanding Fisheries Climate Impacts* section of the [Climate Adaptation Resource Hub for Fishing Communities](https://gmri.org/adaptationhub), I generated reports highlighting historical fisheries trends and future biomass projects for 16 fishing communities in the Northeast US. Those reports were then embedded into a `leaflet` map, which can be accessed below.
+
+```{r}
+#| label: adaptation hub
+#| echo: false
+#| warning: false
+#| message: false
+
+knitr::include_url("https://www.gmri.org/projects/understanding-fisheries-climate-impacts/")
+
+```
+
+## Species Shifts
+
+During my time at GMRI, I worked extensively with a number of federal fishery dependent and independent data sets for a variety of projects. One such project, with the [Mid-Atlantic Fisheries Management Council](mafmc.org), leveraged many of these data sets to understand shifts across management jurisdictions. As such, and given my intimate knowledge of these data sets, I built an [R package](https://mafmc.github.io/species.shifts/) to compile all data cleaning and plotting functions into one central location. This would also avoid any duplicative efforts on behalf of my coworkers. The package is available to the public but its functionality is contingent on access to these federal data sets.
+
+For examples of my most common data visualizations, please navigate to `About` and select `Visualizing federal fisheries data`.
+
+```{r}
+#| label: species shifts
+#| echo: false
+#| warning: false
+#| message: false
+
+knitr::include_url("https://mafmc.github.io/species.shifts/")
+
+```
