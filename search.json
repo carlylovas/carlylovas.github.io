@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Working primarily in R and RStudio, I have worked extensively with the tidyverse, ggplot2, Shiny, pkgdown, and various bespoke R packages. My GitHub is the best resource for assessing my competencies in data visualization and analyses, but I’ve included a few projects during my time at GMRI that best represent my work."
+  },
+  {
+    "objectID": "dataviz.html#adaptation-hub",
+    "href": "dataviz.html#adaptation-hub",
+    "title": "Data Visualization",
+    "section": "Adaptation Hub",
+    "text": "Adaptation Hub\nFor the Understanding Fisheries Climate Impacts section of the Climate Adaptation Resource Hub for Fishing Communities, I generated reports highlighting historical fisheries trends and future biomass projects for 16 fishing communities in the Northeast US. Those reports were then embedded into a leaflet map, which can be accessed below."
+  },
+  {
+    "objectID": "dataviz.html#species-shifts",
+    "href": "dataviz.html#species-shifts",
+    "title": "Data Visualization",
+    "section": "Species Shifts",
+    "text": "Species Shifts\nDuring my time at GMRI, I worked extensively with a number of federal fishery dependent and independent data sets for a variety of projects. One such project, with the Mid-Atlantic Fisheries Management Council, leveraged many of these data sets to understand shifts across management jurisdictions. As such, and given my intimate knowledge of these data sets, I built an R package to compile all data cleaning and plotting functions into one central location. This would also avoid any duplicative efforts on behalf of my coworkers. The package is available to the public but its functionality is contingent on access to these federal data sets.\nFor examples of my most common data visualizations, please navigate to About and select Visualizing federal fisheries data."
+  },
+  {
+    "objectID": "scicomm.html",
+    "href": "scicomm.html",
+    "title": "Science Communication & Engagement",
+    "section": "",
+    "text": "I began my science communication career as a volunteer exhibit guide at the South Carolina Aquarium in Charleston, South Carolina. Over the years, I’ve held multiple public engagement roles within the natural sciences, and made multiple contributions to science and sustainability publications. Storytelling is at the core of scientific research, as we try to understand and find meaning in the world around us."
+  },
+  {
+    "objectID": "scicomm.html#positions",
+    "href": "scicomm.html#positions",
+    "title": "Science Communication & Engagement",
+    "section": "Positions",
+    "text": "Positions\n\nWaterfront Alliance\nClimate Communications Capstone Project\nNew York, NY\n2022\n\n\nTalk Dharti to Me\nCo-Founder, Executive Editor\nMumbai, India\n2020-2022\n\n\nCritterFacts\nGuest Contributor\nRemote, USA\n2020-2021\n\n\nCape Pogue Wildlife Refuge\nSeasonal Engagement Ranger\nEdgartown, MA\n2016, 2018\n\n\nSouth Carolina Aquarium\nVolunteer Exhibit Guide\nCharleston, SC\n2015-2019"
+  },
+  {
+    "objectID": "scicomm.html#publications",
+    "href": "scicomm.html#publications",
+    "title": "Science Communication & Engagement",
+    "section": "Publications",
+    "text": "Publications\nParks and Recreation: Climate Week\nWomen in Climate & Fisheries\nClimate Resilience Literacy Handbook\nClimate Change as an Issue of Mobility and Equity\nCorals: A Story of Death and Rebirth Feeding the Future\nThere’s Plenty of Fish in the Sea – And the Algae are Choking Them\nThis is Not the Apocalypse – Flipping the Narrative\nChaetopterus: The Floating Butt\nEvolution and Moths: Survival of the Fittest\nThe Not-So-Secret Life of Sea Urchins\nThe Ocean Decade: A New Space Race\nThe Wild and Frisky World of the Slipper Shell Snail\nYou, Your Butthole, and the Animal Kingdom"
+  },
+  {
+    "objectID": "repos.html",
+    "href": "repos.html",
+    "title": "GitHub Repositories",
+    "section": "",
+    "text": "Below you’ll find the numerous projects I have contributed to/actively contributing to. Please note that these are not published analyses and are meant to provide insights into my workflow for my collaborators and colleagues. If you are interested in code pertaining to published results, please consult the Gulf of Maine Research Institute GitHub.\nTo see full documentation and workflows, please visit my GitHub."
+  },
+  {
+    "objectID": "repos.html#packages",
+    "href": "repos.html#packages",
+    "title": "GitHub Repositories",
+    "section": "Packages",
+    "text": "Packages\n\nspecies.shifts\ngmRi"
+  },
+  {
+    "objectID": "repos.html#projects",
+    "href": "repos.html#projects",
+    "title": "GitHub Repositories",
+    "section": "Projects",
+    "text": "Projects\n\nSpecies profiles\nNortheast Climate Adaptation\nAccess and Adaptation in Northeast Marine Fisheries\nNutritional Ecology of Climate Change\nClimate Adaptation in Coastal Fishing Communities\nMultispecies Response to Climate Change"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Climate & Fisheries Research",
+    "section": "",
+    "text": "I am primarily interested in the localization and contextualization of large scale climate and ecosystem change. Given the complexities of fisheries and how they are influenced by not only environmental change but regulatory, market, and behavioral trends as well, working in fisheries has been an excellent ecosystem for applying climate decision frameworks. In quantifying changes in commercial fishing, I hope to aid people and institutions as we understand, navigate, and manage the impact climate change has on our daily lives."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Climate & Fisheries Research",
+    "section": "Publications",
+    "text": "Publications\nMills KE, Kemberling A, Kerr LA, Lucey SM, McBride RS, Nye JA, Pershing AJ, Barajas M, Lovas CS. (2024) “Multispecies population-scale emergence of climate change signals in an ocean warming hotspot.” ICES Journal of Marine Science , 2024;, fsad208, https://doi.org/10.1093/icesjms/fsad208.\nLovas CS (2026). species.shifts: Northeast US Marine Species Distribution Change. R package version 0.1.0, https://github.com/carlylovas/species.shifts."
+  },
+  {
+    "objectID": "research.html#forthcoming",
+    "href": "research.html#forthcoming",
+    "title": "Climate & Fisheries Research",
+    "section": "Forthcoming",
+    "text": "Forthcoming\nAllyn AJ, DiFiore B, Lovas CS, Mills KE, Hermann NT, Furey NB. Intra-annual variation in species distributions within a rapidly warming marine ecosystem. (in review)\nEurich, J, et al (2026). Applied approaches and collaborative action advance climate resilience in marine fishery systems (in review).\nLovas CS, Tokunaga K, Burnham-Knight T, Stoll J, Mills KE. Diversification and Cross-fishery Spillovers in Coastal Fisheries: Evidence from Climate Change-induced Northern Shrimp Fishery Collapse. (in prep).\nHermann NT, Allyn AJ, Lovas CS, Wuenschel MJ, Smith BE, Mills KE, Furey NB. A Retrospective Analyses of Fish Diets in the Northeast US Continental Shelf. (in prep)."
+  },
+  {
+    "objectID": "research.html#presentations-workshops",
+    "href": "research.html#presentations-workshops",
+    "title": "Climate & Fisheries Research",
+    "section": "Presentations & Workshops",
+    "text": "Presentations & Workshops\nCo-Designing Learning Across Contexts. NEOSEC Ocean Literacy Summit. October, 2025. [Presentation]. FishSCORE 2030: Approaches to Climate Resilient Marine Fisheries. Gulf of Maine Research Institute. May, 2025. [Workshop].\nEnsuring and enabling access to emergent fisheries in the Northeast U.S. International Council for the Exploration of the Sea: Annual Science Conference. September 2025. [Presentation].\nDiverged in a warming sea: Intra-annual variation in marine species distributions in a rapidly warming marine ecosystem. International Council for the Exploration of the Sea: Annual Science Conference. September 2025. [Poster].\nNutritional Ecology of Climate Change: Understanding how climate change impacts species distributions, interactions, and trophic dynamics. Curriculum Workshop: A Warming Gulf of Maine - Investigating Impacts on Predators and Prey. April 2025. [Workshop].\nClimate, Ocean, Society: Climate Careers in the Marine Sector. Columbia University, Down to Earth Alumni Talks. December 2024. [Presentation].\nAssessing accessibility and adaptive capacity in Maine’s coastal fisheries. International Council for the Exploration of the Sea: Annual Science Conference. September 2024. [Poster].\nClimate Adaptation Resource Hub for Fishing Communities. Gulf of Maine Research Institute. June, July 2024. [Presentation].\nWomen in Climate and Fisheries. University of Bergen: SDG Bergen 2023 Day Zero conference. February 2023. [Workshop]."
+  },
+  {
+    "objectID": "edu.html",
+    "href": "edu.html",
+    "title": "Experience & Expertise",
+    "section": "",
+    "text": "Quantitative Research Associate\nPortland, ME\n2022-2026\nSupported a number of projects across the organization and within Dr. Kathy Mills’ Integrated Systems Ecology group. Analyzed marine species distributions and impacts using a variety of federal and state fisheries data sets and a variety of methods, including data visualization, time series analyses and descriptive statistics, generalized linear and mixed effects models, species distribution models, econometrics and social network graph analysis. Created educational resources for coastal community resilience, provided written and visual content for proposals and publications. Developed community reports for the Climate Adaptation Resource Hub for Fishing Communities.\n\n\n\nClimate Communications Capstone Project\nNew York, NY\n2022\nCo-led a team of Columbia University graduate students in a collaborative project with the Waterfront Alliance. Designed, developed, and published the Climate Resilience Literacy Handbook on climate resilience strategies in the New York/New Jersey metro region to promote climate literacy and resilient waterfront infrastructure.\n\n\n\nGraduate Research Assistant, Goes Lab\nNew York, NY\n2021-2022\nWorked in EASy to track and visualize environmental parameters and lobster landing data in the Gulf of Maine as part of the Navigating the New Arctic initiative of the NSF. Participated in multiple workshops as part of The Lobster Institute’s United States and Canada Future Fisheries Collaborative. Assisted in the coproduction of scientific knowledge and provision of climate services to the Gulf of Maine lobster industry.\n\n\n\nAmerican Conservation Experience EPIC Aquatic Ecology Intern\nNew River Gorge National Park, Glen Jean, WV\n2019\nAssisted water quality monitoring projects within the New River Gorge National Park, analyzing the correlation between environmental parameters and the bacteriological composition as indicators of contaminated water. Trained in electroshock fish sampling techniques for long-term ecosystem monitoring. Hired as a research technician for multi-person study out of WVU and New River Gorge National Park involving the effects of Imidacloprid for HWA treatment on non-target organisms.\n\n\n\nUndergraduate Research Assistant\nCharleston, SC\n2016-2018\nAssisted undergraduate research in functional biology and evolutionary ecology of marine invertebrates. Maintained aquaria, collected gametes, and reared pluteus and veliger larvae under various experimental conditions. Used microscopic photographic techniques to record and analyze larval developmental stages."
+  },
+  {
+    "objectID": "edu.html#previous-employment",
+    "href": "edu.html#previous-employment",
+    "title": "Experience & Expertise",
+    "section": "",
+    "text": "Quantitative Research Associate\nPortland, ME\n2022-2026\nSupported a number of projects across the organization and within Dr. Kathy Mills’ Integrated Systems Ecology group. Analyzed marine species distributions and impacts using a variety of federal and state fisheries data sets and a variety of methods, including data visualization, time series analyses and descriptive statistics, generalized linear and mixed effects models, species distribution models, econometrics and social network graph analysis. Created educational resources for coastal community resilience, provided written and visual content for proposals and publications. Developed community reports for the Climate Adaptation Resource Hub for Fishing Communities.\n\n\n\nClimate Communications Capstone Project\nNew York, NY\n2022\nCo-led a team of Columbia University graduate students in a collaborative project with the Waterfront Alliance. Designed, developed, and published the Climate Resilience Literacy Handbook on climate resilience strategies in the New York/New Jersey metro region to promote climate literacy and resilient waterfront infrastructure.\n\n\n\nGraduate Research Assistant, Goes Lab\nNew York, NY\n2021-2022\nWorked in EASy to track and visualize environmental parameters and lobster landing data in the Gulf of Maine as part of the Navigating the New Arctic initiative of the NSF. Participated in multiple workshops as part of The Lobster Institute’s United States and Canada Future Fisheries Collaborative. Assisted in the coproduction of scientific knowledge and provision of climate services to the Gulf of Maine lobster industry.\n\n\n\nAmerican Conservation Experience EPIC Aquatic Ecology Intern\nNew River Gorge National Park, Glen Jean, WV\n2019\nAssisted water quality monitoring projects within the New River Gorge National Park, analyzing the correlation between environmental parameters and the bacteriological composition as indicators of contaminated water. Trained in electroshock fish sampling techniques for long-term ecosystem monitoring. Hired as a research technician for multi-person study out of WVU and New River Gorge National Park involving the effects of Imidacloprid for HWA treatment on non-target organisms.\n\n\n\nUndergraduate Research Assistant\nCharleston, SC\n2016-2018\nAssisted undergraduate research in functional biology and evolutionary ecology of marine invertebrates. Maintained aquaria, collected gametes, and reared pluteus and veliger larvae under various experimental conditions. Used microscopic photographic techniques to record and analyze larval developmental stages."
+  },
+  {
+    "objectID": "edu.html#education",
+    "href": "edu.html#education",
+    "title": "Experience & Expertise",
+    "section": "Education",
+    "text": "Education\n\nMaster of Arts, Climate & Society\nColumbia University in the City of New York\n2021-2022\n\n\nBachelor of Science, Marine Biology\nCollege of Charleston\n2015-2019"
+  },
+  {
+    "objectID": "edu.html#knowledge-areas-and-interests",
+    "href": "edu.html#knowledge-areas-and-interests",
+    "title": "Experience & Expertise",
+    "section": "Knowledge areas and interests",
+    "text": "Knowledge areas and interests\n\nQuantitative Ecology\nMarine Biology & Ecology\nClimate Adaptation & Resilience\nR Statistical Programming\nData Analysis & Visualization\nStrategic Science & Climate Communication"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carly S. Lovas",
+    "section": "",
+    "text": "Hi, and welcome to my portfolio. I am a quantitative marine ecologist, focusing on the impacts of climate-driven ocean warming on fisheries socio-ecological systems. I work primarily with federal fisheries independent and dependent survey data, including (but not limited to) NOAA Northeast Fisheries Science Center Spring-Fall Bottom Trawl Survey, NOAA Fisheries Marine Recreational Information Program, Greater Atlantic Regional Fisheries Office Commercial Harvest Permits and Fisheries Observer Data. I have supported multiple projects funded by NOAA and Maine Sea Grant, the National Science Foundation BioOce Program, and Mid-Atlantic Fisheries Management Council via the Inflation Reduction Act. All of these projects sought to quantify shifts in distribution of commercially viable marine species, and the understand the potential implications on marine fisheries in the Northeast United States. As a researcher, I am motivated to quantify climate-driven shifts in marine species distribution, and develop frameworks to support more dynamic, adaptive, and climate-resilient commercial fisheries. I am passionate about leveraging lived experience and knowledge with scientific information to building well-informed, engaged, and resilient communities. Please take this opportunity to peruse my work, and please don’t hesitate to reach out for any inquiries or opportunities."
+  }
+]
