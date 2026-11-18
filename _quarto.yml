@@ -3,6 +3,8 @@ project:
   resources:
     - CNAME
 website:
+  site-url: "https://www.carlylovas.com"
+  image: images/headshot.svg
   title: "Carly S. Lovas"
   favicon: images/headshot.svg
   navbar:
@@ -37,11 +39,12 @@ website:
         text: "<img src='/images/orcid_bw.svg' class='custom-sidebar-icon' alt='ORCID'> ORCID"
       - href: /files/Lovas_CV.pdf 
         text: "<i class='bi bi-cloud-download-fill'></i> Download CV"
+  page-footer: "<i class='bi bi-c-circle'></i> Carly Lovas, 2026"
 format:
   html:
-    theme: cosmo
-      # light: [cosmo, theme.scss]
-      # dark: [cosmo, theme-dark.scss]
+    theme: 
+       light: cosmo
+       # dark: darkly
     css: styles.css
     toc: true
    # mainfont: "ovo"
